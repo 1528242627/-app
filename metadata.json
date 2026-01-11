@@ -1,0 +1,7 @@
+{
+  "name": "SoulLog",
+  "description": "一个极简的 AI 驱动的个人心灵日记应用。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
